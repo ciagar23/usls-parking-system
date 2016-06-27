@@ -1,0 +1,225 @@
+#gate1{
+	width: 792px;
+	height: 700px;
+	display: block;
+	background-image: url(gate1.png);
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+#gate1full{
+	width: 792px;
+	height: 700px;
+	display: block;
+	background-image: url(gate1full.png);
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+#gate2{
+	width: 792px;
+	height: 700px;
+	display: block;
+	background-image: url(gate2.png);
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+#gate6{
+	width: 792px;
+	height: 700px;
+	display: block;
+	background-image: url(gate6.png);
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+#marker-holder{
+	float: right;
+	margin-right: 343px;
+}
+
+#marker-holder1{
+	float: right;
+	margin-right: 340px;
+}
+
+#marker-holder2{
+	float: right;
+	margin-right: 235px;
+}
+#marker-holder3{
+	float: right;
+	margin-right: 215px;
+}
+#marker-holder4{
+	float: right;
+	margin-right: 195px;
+}
+
+#marker-holder5{
+	float: right;
+	margin-right: 500px;
+}
+#marker-holder6{
+	float: left;
+	margin-left: 30px;
+}
+
+#marker-holder7{
+	float: left;
+	margin-left: 145px;
+}
+#marker-holder8{
+	float: left;
+	margin-left: 135px;
+}
+#marker-holder9{
+	float: left;
+	margin-left: 125px;
+}
+#block{
+	float: right;
+}
+
+#block1{
+	float: left;
+}
+#block a {
+	width: 15px;
+	height: 15px;
+	display: block;
+}
+#block1 a {
+	width: 15px;
+	height: 15px;
+	display: block;
+}
+.mark1{
+	width: 15px;
+	height: 15px;
+	display: block;
+	background-color: red;
+}
+
+.mark0{
+	width: 15px;
+	height: 15px;
+	display: block;
+	background-color: green;
+}
+
+#spacer-top{
+	height: 90px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top1{
+	height: 3px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top2{
+	height: 6px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top3{
+	height: 20px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top4{
+	height: 12px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top6{
+	height: 70px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top5{
+	height: 50px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top9{
+	height: 10px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top7{
+	height: 15px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-top8{
+	height: 20px;
+	width: 0px;
+	display: block;
+	background-color: #fff;
+}
+#spacer-lots{
+	height: 10px;
+	width: 5px;
+	display: block;
+	float: right;
+}
+#spacer-lots4{
+	height: 10px;
+	width: 78px;
+	display: block;
+	float: right;
+}
+#spacer-lots2{
+	height: 10px;
+	width: 2px;
+	display: block;
+	float: right;
+}
+#spacer-lots1{
+	height: 10px;
+	width: 27px;
+	display: block;
+	float: right;
+}
+#spacer-lots3{
+	height: 10px;
+	width: 22px;
+	display: block;
+	float: right;
+}
+#spacer-lots5{
+	height: 10px;
+	width: 30px;
+	display: block;
+	float: right;
+}
+#spacer-lots6{
+	height: 10px;
+	width: 10px;
+	display: block;
+	float: right;
+}
+
+#spacer-lots7{
+	height: 10px;
+	width: 7px;
+	display: block;
+	float: left;
+}
+#spacer-lots8{
+	height: 5px;
+	width: 15px;
+	display: block;
+	float: left;
+}
+
+#scan{
+	float:right;}

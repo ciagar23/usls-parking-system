@@ -1,0 +1,217 @@
+body
+{
+    font-family: Lithos Pro Regular;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+table tr td
+{
+    border-spacing: 0;
+    border: 0 solid #000;
+}
+form 
+{
+    margin: 0;
+    padding: 0;
+}
+
+#tbl_layout
+{
+    width: 800px;
+    height: auto;
+    margin:left;
+    border:0; 
+    padding:0;
+    text-align:left;
+}
+#message_box
+{
+    text-align: center;
+    width: 300px;
+    height: auto;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ff2400;
+}
+ul
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+<!--[if IE]>
+<style type="text/css">
+    #menu li 
+	{
+        position:static;
+	}
+</style>
+<![endif]-->
+
+/* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+#menu, #menu ul
+{
+    list-style:none;
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+#menu li 
+{
+    float:left;
+    position:relative;
+    line-height: 2em;
+    width: 11em;
+}
+#menu li ul 
+{
+    position:absolute;
+    margin-top:-1em;
+    margin-left:.5em;
+    display:none;
+}
+#menu ul li ul 
+{
+    margin-top:-3em;
+    margin-left:7em;
+}
+#menu a 
+{
+    display:block;
+    border-right:1px solid #fff;
+    background:#E0F574;
+    color:#3B3B3B;
+    text-decoration:none;
+    padding:0 10px;
+}
+#menu a:hover
+{
+    background-color:#5798B4;
+    color:#fff;
+}
+#menu ul 
+{
+    border-top:1px solid #fff;
+}
+#menu ul a
+{
+    border-right:none;
+    border-right:1px solid #fff;
+    border-bottom:1px solid #fff;
+    border-left:1px solid #fff;
+    background:#AEC245;
+}
+/* SHOW SUBMENU 1 */
+#menu li:hover ul, #menu li.over ul
+{
+    display:block;
+}
+#menu li:hover ul ul, #menu li.over ul ul 
+{
+    display:none;
+}
+/* SHOW SUBMENU 2 */
+#menu ul li:hover ul, #menu ul li.over ul
+{
+    display:block;
+}
+
+
+}
+.logo_header
+{
+    width: 800px;
+    height: 180px;
+}
+
+.content
+{
+    width: 800px;
+    height: 300px;
+    background-color: #a7a8a7;
+}
+.btm_footer
+{
+    width: 800px;
+    height: 52px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#tbl_login_form td
+{
+    text-align: center;
+    color: green;
+}
+
+.message_holder
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.headname
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+		
+
+#tbl_login
+{
+    width: 30%;
+    height: auto;
+    margin: 0;
+    border: 1px solid #736F6E;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tbl_login_form
+{
+    background-color: #ffffff;
+}
+
+
+#coolmenu
+{
+    border: 1px solid black;
+    width: 170px;
+    background-color: #E6E6E6;
+}
+
+#coolmenu a
+{
+    font: bold 13px Verdana;
+    padding: 2px;
+    padding-left: 4px;
+    display: block;
+    width: 100%;
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+img
+{
+    border: 0px;
+}
+
